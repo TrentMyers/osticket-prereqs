@@ -3,7 +3,11 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
+
+<h2> What is osTicket? </h2>
+  
+  osTicket is an open-source customer support ticketing system that enables organizations to effectively manage customer inquiries and support requests. Its primary purpose is to streamline communication between customers and support teams, allowing for efficient ticket creation, assignment, tracking, and resolution.<br />
 
 <h2>Environments and Technologies Used</h2>
 
