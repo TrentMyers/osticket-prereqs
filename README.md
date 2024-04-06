@@ -54,9 +54,9 @@ Once the VM is booted up, you will be ready for the next step.
 <b> Note: You will have to download Remote Desktop Connection if on Linux or Mac. </b>
 </p>
 <br />
-<H2>Step 2:</H2>
+<H2>Step 2: Preparing your machine for osTicket</H2>
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>w
+
 </p>
 <p>
 
