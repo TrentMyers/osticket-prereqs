@@ -30,34 +30,39 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e7500c20-d8eb-4ded-8b54-0b86c8bf124a)
 
 
-<p>
   <b>Create a Virtual Machine in Azure.</b>
 
-• Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account.
+<p>
+<li> Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account. </li>
 
-• Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine.
+<li>Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine. </li>
 
-• Fill out the necessary information like name, region, and resource group.
-Choose "Windows 10" as the operating system.
+<li> Fill out the necessary information like name, region, and resource group.
+Choose "Windows 10" as the operating system. </li>
 
-• Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)
-Proceed with default settings for the remaining steps or customize as needed.
+<li>Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)</li>
 
-• Click "Review + Create" and then "Create" to provision the VM.
-Connect to the VM:
+<li>Proceed with default settings for the remaining steps or customize as needed.</li>
 
-• Once the VM is provisioned, click on it in the Azure portal.
+<li> Click "Review + Create" and then "Create" to provision the VM.
+Connect to the VM:</li>
+
+<li>Once the VM is provisioned, click on it in the Azure portal.
 You will want to copy the VM's Public IP address under "Essentials".
 Once copied, you will open Remote Desktop Connection on Windows and enter the credentials required to log in to your VM.
-Once the VM is booted up, you will be ready for the next step.
+Once the VM is booted up, you will be ready for the next step.</li>
 
-<b> Note: You will have to download Remote Desktop Connection if on Linux or Mac. </b>
-</p>
+
+<b> Note: You will have to download Remote Desktop Connection if on Linux or Mac. </b></p>
 <br />
-<H2>Step 2: Preparing your machine for osTicket</H2>
+<H2>Step 2: Preparing for the Setup</H2>
 <p>
+  
+<li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
 
 </p>
+
+
 <p>
 
 </p>
