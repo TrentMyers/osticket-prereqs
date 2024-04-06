@@ -31,9 +31,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-• Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account.
+  <b>Create a Virtual Machine in Azure.</b>
 
-• Create a Virtual Machine:
+• Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account.
 
 • Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine.
 
