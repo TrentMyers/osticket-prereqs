@@ -31,20 +31,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account.
+• Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account.
 
-Create a Virtual Machine:
+• Create a Virtual Machine:
 
-Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine.
+• Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine.
 
-Fill out the necessary information like name, region, and resource group.
+• Fill out the necessary information like name, region, and resource group.
 Choose "Windows 10" as the operating system.
-Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)
+
+• Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)
 Proceed with default settings for the remaining steps or customize as needed.
-Click "Review + Create" and then "Create" to provision the VM.
+
+• Click "Review + Create" and then "Create" to provision the VM.
 Connect to the VM:
 
-Once the VM is provisioned, click on it in the Azure portal.
+• Once the VM is provisioned, click on it in the Azure portal.
 You will want to copy the VM's Public IP address under "Essentials".
 Once copied, you will open Remote Desktop Connection on Windows. 
 
