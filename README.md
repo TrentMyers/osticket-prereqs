@@ -48,17 +48,18 @@ Connect to the VM:
 
 • Once the VM is provisioned, click on it in the Azure portal.
 You will want to copy the VM's Public IP address under "Essentials".
-Once copied, you will open Remote Desktop Connection on Windows. 
+Once copied, you will open Remote Desktop Connection on Windows and enter the credentials required to log in to your VM.
+Once the VM is booted up, you will be ready for the next step.
 
 <b> Note: You will have to download Remote Desktop Connection if on Linux or Mac. </b>
 </p>
 <br />
 <H2>Step 2:</H2>
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>w
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 <H2>Step 3:</H2>
