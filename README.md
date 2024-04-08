@@ -33,31 +33,32 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   <b>Create a Virtual Machine in Azure.</b>
 
 <p>
-<li> Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account. </li>
+ <li> Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account. </li>
 
-<li>Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine. </li>
+ <li> Click on the search bar (located in the top-centermost part of your screen) and search for "Virtual Machines" and create a new Azure Virtual Machine. </li>
 
-<li> Fill out the necessary information like name, region, and resource group.
+ <li> Fill out the necessary information like name, region, and resource group.
 Choose "Windows 10" as the operating system. </li>
 
-<li>Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)</li>
+ <li> Select an appropriate VM size and configuration (I'd recommend at least 16 GB of RAM and 2 V-CPUs)</li>
 
-<li>Proceed with default settings for the remaining steps or customize as needed.</li>
+ <li> Proceed with default settings for the remaining steps or customize as needed.</li>
 
-<li> Click "Review + Create" and then "Create" to provision the VM.
+ <li> Click "Review + Create" and then "Create" to provision the VM.
 Connect to the VM:</li>
 
-<li>Once the VM is provisioned, click on it in the Azure portal.
-You will want to copy the VM's Public IP address under "Essentials".
+ <li>Once the VM is provisioned, click on it in the Azure portal.
+You must copy the VM's Public IP address under "Essentials".
 Once copied, you will open Remote Desktop Connection on Windows and enter the credentials required to log in to your VM.
 Once the VM is booted up, you will be ready for the next step.</li>
+</p>
 
+  <b> Note: You must download Remote Desktop Connection if on Linux or Mac. </b>
 
-<b> Note: You will have to download Remote Desktop Connection if on Linux or Mac. </b></p>
 <br />
 <H2>Step 2: Preparing for the Setup</H2>
 <p>
-  
+
 <li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
 
 </p>
