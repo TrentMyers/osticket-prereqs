@@ -60,9 +60,15 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/672ebe75-dc15-47d0-af15-5e22cd692ec6)
 
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fa4bb02b-eff1-400f-b9c8-ce48b2e30268)
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fb4c950e-68b0-47bb-a9cf-a02185d650f0)
+
 
 <p>
-<li> </li>
+<li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
+</li>
+<li> Check the box next to IIS (Internet Information Services), expand it, navigate to "World Wide Web Services" and expand it, navigate to "application development features", expand it and check the box next to "CGI"
 <li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
 
 </p>
