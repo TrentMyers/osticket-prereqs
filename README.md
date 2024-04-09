@@ -68,7 +68,14 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <p>
 <li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
 </li>
-<li> Check the box next to IIS (Internet Information Services), expand it, navigate to "World Wide Web Services" and expand it, navigate to "application development features", expand it and check the box next to "CGI"
+  <B> From the previous step, do the following:</B>
+<p> 1. Check the box next to "IIS (Internet Information Services)". </p>
+2. Expand "IIS" and navigate to "World Wide Web Services".
+3. Expand "World Wide Web Services" and navigate to "Application Development Features".
+4. Expand "Application Development Features" and check the box next to "CGI".
+5. Collapse "Application Development Features".
+6. Expand "Common HTTPS Features" and ensure that everything is selected.
+
 <li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
 
 </p>
