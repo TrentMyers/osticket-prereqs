@@ -57,8 +57,12 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 <br />
 <H2>Step 2: Preparing for the Setup</H2>
-<p>
 
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/672ebe75-dc15-47d0-af15-5e22cd692ec6)
+
+
+<p>
+<li> </li>
 <li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
 
 </p>
