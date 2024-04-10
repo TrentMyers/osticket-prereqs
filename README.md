@@ -30,7 +30,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e7500c20-d8eb-4ded-8b54-0b86c8bf124a)
 
 
-  <b>Create a Virtual Machine in Azure.</b>
+  <b> <i> Create a Virtual Machine in Azure.</i> </b>
 
 <p>
  <li> Sign in to the Azure portal: Go to https://portal.azure.com/ and sign in with your Azure account. </li>
@@ -53,30 +53,40 @@ Once copied, you will open Remote Desktop Connection on Windows and enter the cr
 Once the VM is booted up, you will be ready for the next step.</li>
 </p>
 
-  <b> Note: You must download Remote Desktop Connection if on Linux or Mac. </b>
+  <b> <i> Note: You must download Remote Desktop Connection if on Linux or Mac. </i> </b>
 
-<br />
+
+
 <H2>Step 2: Preparing for the Setup</H2>
+
+
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/1e8a961d-2f30-42c7-b8e3-71a7320280a9)
+
+<p> <li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
+</li> </p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/672ebe75-dc15-47d0-af15-5e22cd692ec6)
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fa4bb02b-eff1-400f-b9c8-ce48b2e30268)
+<p> <LI> Check the box next to "IIS (Internet Information Services)". </LI>
+</p> 
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fb4c950e-68b0-47bb-a9cf-a02185d650f0)
 
 
-<p>
-<li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
-</li>
-  <B> From the previous step, do the following:</B>
-<p> 1. Check the box next to "IIS (Internet Information Services)". </p>
-2. Expand "IIS" and navigate to "World Wide Web Services".
-3. Expand "World Wide Web Services" and navigate to "Application Development Features".
-4. Expand "Application Development Features" and check the box next to "CGI".
-5. Collapse "Application Development Features".
-6. Expand "Common HTTPS Features" and ensure that everything is selected.
+<p> <li> Expand "IIS" and navigate to "World Wide Web Services". > Expand "World Wide Web Services" and navigate to "Application Development Features". > Expand "Application Development Features" and check the box next to "CGI".</li> </p>
 
-<li> Install necessary software like .NET Framework, PHP, MySQL, and a web server (e.g., IIS or XAMPP). Ensure that you have administrative privileges to install these components. </li> 
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fa4bb02b-eff1-400f-b9c8-ce48b2e30268)
+
+<p> <li>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes</li></p>
+
+
+<p>
+
+
+<b> <I> Install necessary software from the following links and ensure that you have administrative privileges to install these components: </I> </b>
+
+<li>  </li>
 
 </p>
 
