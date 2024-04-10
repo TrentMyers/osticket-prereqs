@@ -68,7 +68,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/672ebe75-dc15-47d0-af15-5e22cd692ec6)
 
-<p> <LI> Check the box next to "IIS (Internet Information Services)". </LI>
+<p> <li> Check the box next to "IIS (Internet Information Services)". </li>
 </p> 
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fb4c950e-68b0-47bb-a9cf-a02185d650f0)
@@ -78,24 +78,21 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fa4bb02b-eff1-400f-b9c8-ce48b2e30268)
 
-<p> <li>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes</li></p>
+<p> <li>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes. </li> </p>
 
 
 <p>
 
 
-<b> <I> Install necessary software from the following links and ensure that you have administrative privileges to install these components: </I> </b>
+<b> <i> Install the necessary software from the following links and ensure that you have administrative privileges to install these components: </i> </b>
 
-<li>  </li>
-
-</p>
-
-
-<p>
+<li> PHP Manager for IIS: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link </li>
+<li> Rewrite Module: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link </li>
+<li> VC_redist.x86.exe: https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link </li>
 
 </p>
-<br />
-<H2>Step 3:</H2>
+
+<H2> Step 3: Setup </H2>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
