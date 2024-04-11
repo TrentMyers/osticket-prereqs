@@ -58,7 +58,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 
 <H2>Step 2: Preparing for the Setup</H2>
-
+ 
 
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/1e8a961d-2f30-42c7-b8e3-71a7320280a9)
