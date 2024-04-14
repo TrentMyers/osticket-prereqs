@@ -93,7 +93,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <li> VC_redist.x86.exe: https://aka.ms/vs/17/release/vc_redist.x86.exe </li>
 <li> PHP (Not to be confused with PHP Manager): https://www.php.net/index.php#2024-04-11-3 </li>
 <i> <b> [ When installing PHP, create a directory (folder) in the root of your drive and name it "PHP". Unpack/Unzip your PHP download into your new "PHP" directory. ] </b></i>
-<li> MySQL: https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link </li>
+<li> MySQL: https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.36.0.msi </li>
 <i><b> [ Once you finish the installation, it will prompt you with a few options so be sure you select Standard installation > install as a window service > create your root password > Execute. ] </b></i>
 
 </p>
