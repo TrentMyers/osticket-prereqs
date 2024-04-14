@@ -101,7 +101,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/be7f97ba-abb7-492e-aa9e-db414f25e519)
 
-<li> Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</li>
+<h4> Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</h4>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/da6a989d-7e75-4cde-9c15-32d5ea3b269d)
 
