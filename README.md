@@ -60,7 +60,7 @@
   <li>PHP Manager for IIS: <a href="https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10" target="_blank">Download here</a></li>
   <li>Rewrite Module: <a href="https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi" target="_blank">Download here</a></li>
   <li>VC_redist.x86.exe: <a href="https://aka.ms/vs/17/release/vc_redist.x86.exe" target="_blank">Download here</a></li>
-  <li>PHP: <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=sharing" target="_blank">Download here</a></li>
+  <li>PHP: <a href="https://windows.php.net/downloads/releases/php-8.3.6-nts-Win32-vs16-x64.zip" target="_blank">Download here</a></li>
   <i> <b> [ When installing PHP, create a directory (folder) in the root of your drive and name it "PHP". Unpack/Unzip your PHP download into your new "PHP" directory. ] </b></i>
   <li>MySQL: <a href="https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.36.0.msi" target="_blank">Download here</a></li>
 <i><b> [ Once you finish the installation, it will prompt you with a few options so be sure you select Standard installation > install as a window service > create your root password > Execute. ] </b></i>
@@ -117,3 +117,5 @@
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/12c81213-b67e-4aa6-bdee-1b1b844aacc5)
 
 <p>Once done, right click and go to properties > security > advanced > Disable inheritance > remove all permissions > add > select a principal > type "everyone" inside of "Enter the object name to select" > check names > check "full control" and apply all.</p>
+
+<p>Continue setting up osticket </p>
