@@ -109,3 +109,4 @@ Once the VM is booted up, you will be ready for the next step.</li>
 </p>
 
 <H2>Step 3: osTicket Setup</H2>
+<h4> Install osTicket: https://github.com/osTicket/osTicket/releases/download/v1.18.1/osTicket-v1.18.1.zip </h4>
