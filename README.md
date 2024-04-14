@@ -63,24 +63,24 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/1e8a961d-2f30-42c7-b8e3-71a7320280a9)
 
-<p> <li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
-</li> </p>
+<p> <h4> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
+</h4> </p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/4b81c8ef-3542-4a21-930a-eba8002410a0)
 
-<p> <li> Check the box next to "IIS (Internet Information Services)". </li>
+<p> <h4> Check the box next to "IIS (Internet Information Services)". </h4>
 </p> 
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/973f4709-cea2-4565-9b3f-52049a5a7315)
 
 
 
-<p> <li> Expand "IIS" and navigate to "World Wide Web Services". > Expand "World Wide Web Services" and navigate to "Application Development Features". > Expand "Application Development Features" and check the box next to "CGI".</li> </p>
+<p> <h4> Expand "IIS" and navigate to "World Wide Web Services". > Expand "World Wide Web Services" and navigate to "Application Development Features". > Expand "Application Development Features" and check the box next to "CGI".</h4> </p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/60c1d392-5b89-44ee-9fdd-0c281f6debba)
 
 
-<p> <li>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes. </li> </p>
+<p> <h4>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes. </h4> </p>
 
 
 <p>
@@ -98,8 +98,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 </p>
 <p>
-<li> Open IIS as an admin </li>
-<li> Navigate to PHP Manager</li>
+<h4> Open IIS as an admin and Navigate to PHP Manager</h4>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/be7f97ba-abb7-492e-aa9e-db414f25e519)
 
@@ -107,5 +106,5 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/da6a989d-7e75-4cde-9c15-32d5ea3b269d)
 
-<li> restart IIS to ensure the changes are made.</li>
+<h4> restart IIS to ensure the changes are made.</h4>
 </p>
