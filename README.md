@@ -66,17 +66,19 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <p> <li> Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off"
 </li> </p>
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/672ebe75-dc15-47d0-af15-5e22cd692ec6)
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/4b81c8ef-3542-4a21-930a-eba8002410a0)
 
 <p> <li> Check the box next to "IIS (Internet Information Services)". </li>
 </p> 
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fb4c950e-68b0-47bb-a9cf-a02185d650f0)
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/973f4709-cea2-4565-9b3f-52049a5a7315)
+
 
 
 <p> <li> Expand "IIS" and navigate to "World Wide Web Services". > Expand "World Wide Web Services" and navigate to "Application Development Features". > Expand "Application Development Features" and check the box next to "CGI".</li> </p>
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/fa4bb02b-eff1-400f-b9c8-ce48b2e30268)
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/60c1d392-5b89-44ee-9fdd-0c281f6debba)
+
 
 <p> <li>Collapse "Application Development Features". > Expand "Common HTTPS Features" and ensure that everything is selected. > Press OK to save changes. </li> </p>
 
@@ -86,9 +88,9 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 <b> <i> Install the necessary software from the following links and ensure that you have administrative privileges to install these components: </i> </b>
 
-<li> PHP Manager for IIS: https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link </li>
-<li> Rewrite Module: https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link </li>
-<li> VC_redist.x86.exe: https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link </li>
+<li> PHP Manager for IIS: https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10 </li>
+<li> Rewrite Module: https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi </li>
+<li> VC_redist.x86.exe: https://aka.ms/vs/17/release/vc_redist.x86.exe </li>
 <li> PHP (Not to be confused with PHP Manager): https://www.php.net/index.php#2024-04-11-3 </li>
 <i> <b> [ When installing PHP, create a directory (folder) in the root of your drive and name it "PHP". Unpack/Unzip your PHP download into your new "PHP" directory. ] </b></i>
 <li> MySQL: https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link </li>
