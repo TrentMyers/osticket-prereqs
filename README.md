@@ -95,3 +95,19 @@
   <li>Rename the "upload" folder to "osTicket".</li>
   <li>Restart IIS to apply changes.</li>
 </ul>
+
+<ul>
+<p>When IIS restarts, we will now enable the required extensions for osTicket.</p>
+<li>Navigate back to PHP Manager. Look for "enable or disable an extension" and click on it.</li>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/b626bd6b-b3fa-41c8-92da-e6dc47da7208)
+
+<p> <strong>Neable the following extensions:</strong> </p>
+<li>php_imap.dll</li>
+<li>php_intl.dll</li>
+<li>php_opcache.dll</li>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/65125ed1-2a8b-4196-bb45-9e98665eea50)
+
+
+</ul>
