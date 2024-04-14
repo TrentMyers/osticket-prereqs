@@ -95,5 +95,14 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <i><b> [ Once you finish the installation, it will prompt you with a few options so be sure you select Standard installation > install as a window service > create your root password > Execute. ] </b></i>
 
 </p>
+<p>
+<li> Open IIS as an admin </li>
+<li> Navigate to PHP Manager</li>
 
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e757ab4b-d6e3-4833-bc6e-abd026f9067d)
 
+<li> Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</li>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/6f1b12e7-981b-45c4-8402-81a07d0114e6)
+
+</p>
