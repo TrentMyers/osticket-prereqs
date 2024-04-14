@@ -67,15 +67,15 @@
 </ul>
 
  <ul>
-<li>Open IIS as an admin and Navigate to PHP Manager</li>
+<p>Open IIS as an admin and Navigate to PHP Manager</p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/be7f97ba-abb7-492e-aa9e-db414f25e519)
 
-<li>Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</li>
+<p>Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/da6a989d-7e75-4cde-9c15-32d5ea3b269d)
 
-<li>Restart IIS to ensure the changes are made.</li>
+<p>Restart IIS to ensure the changes are made.</p>
 
  </ul>
 <h2>Step 3: osTicket Setup</h2>
@@ -102,7 +102,7 @@
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/b626bd6b-b3fa-41c8-92da-e6dc47da7208)
 
-<p> <strong>Neable the following extensions:</strong> </p>
+<p> <strong>Enable the following extensions:</strong> </p>
 <li>php_imap.dll</li>
 <li>php_intl.dll</li>
 <li>php_opcache.dll</li>
