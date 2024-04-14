@@ -24,7 +24,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Personal/Work Computer
 - Microsoft Azure Account https://azure.microsoft.com/en-us/ (If you want to install osTicket on your personal/Work Computer, skip Step 1)
 
-<h2>Installation Guide:</h2>
 <H2>Step 1: Set Up a Virtual Machine (VM) on Azure</H2>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e7500c20-d8eb-4ded-8b54-0b86c8bf124a)
