@@ -107,3 +107,5 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 <h4> restart IIS to ensure the changes are made.</h4>
 </p>
+
+<H2>Step 3: osTicket Setup</H2>
