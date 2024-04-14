@@ -105,7 +105,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 <li> Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</li>
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/6f1b12e7-981b-45c4-8402-81a07d0114e6)
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/da6a989d-7e75-4cde-9c15-32d5ea3b269d)
 
 <li> restart IIS to ensure the changes are made.</li>
 </p>
