@@ -121,3 +121,18 @@
 <p>From this point, you will open "localhost/osticket" in your browser and continue to setup as desired up until the database section. </p>
 
 <p>Once in the database section, you will want to download <a href="https://www.heidisql.com/installers/HeidiSQL_12.6.0.6765_Setup.exe" target="_blank">Heidi SQL</a></p>
+
+<p>After the installation is finished, we will create a new connection to the database. You can use the same credentials we used for MYSQL. When you log in, right click and create a new database named osTicket.</p>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/a5df71ae-5af5-4842-90f0-8d27db9c561d)
+
+<ul>
+  <p>You are now set to finish the osTicket setup on the website. The final thing to do is do some clean up by:</p>
+  <li> Delete: C:\inetpub\wwwroot\osTicket\setup</li>
+  <li> Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+
+<strong> Notes: </strong>
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/ </li>
+
+<h1>Congrats! You now have access to osticket and all its features!</h1>
