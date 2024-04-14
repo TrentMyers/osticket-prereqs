@@ -110,3 +110,24 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 <H2>Step 3: osTicket Setup</H2>
 <h4> Install osTicket: https://github.com/osTicket/osTicket/releases/download/v1.18.1/osTicket-v1.18.1.zip </h4>
+<br>
+<h4>Once installed, open up the folder and proceed with the following steps:</h4>
+
+<p>
+<li> Open file explorer and locate inetpub within your root.</li>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e0fcf376-d7c7-4265-af3a-47e418948baa)
+  
+<li> Open wwwroot and copy over the "upload" folder within your osticket installation.</li>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/039023b5-d44d-4678-ab37-99f75e06b0d0)
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/418b4f6d-7be6-4ef0-98c1-507d505c0d4e)
+
+
+<li> Rename the "upload" folder to "osTicket".</li>
+<li> Restart IIS.</li>
+<li></li>
+
+  
+</p>
