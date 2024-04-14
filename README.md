@@ -112,7 +112,7 @@
 
 </ul>
 
-<p>Now we will rename the file "ost-sample.config" to "ost-config" within the osticket folder we have inside wwwroot.</p>
+<p>Now we will rename the file "ost-sample.config" to "ost-config" within the osticket folder we have inside wwwroot > osticket > include and you should see the file.</p>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/12c81213-b67e-4aa6-bdee-1b1b844aacc5)
 
