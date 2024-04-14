@@ -105,4 +105,5 @@ Once the VM is booted up, you will be ready for the next step.</li>
 
 ![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/6f1b12e7-981b-45c4-8402-81a07d0114e6)
 
+<li> restart IIS to ensure the changes are made.</li>
 </p>
