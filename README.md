@@ -111,3 +111,9 @@
 
 
 </ul>
+
+<p>Now we will rename the file "ost-sample.config" to "ost-config" within the osticket folder we have inside wwwroot.</p>
+
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/12c81213-b67e-4aa6-bdee-1b1b844aacc5)
+
+<p>Once done, right click and go to properties > security > advanced > Disable inheritance > remove all permissions > add > select a principal > type "everyone" inside of "Enter the object name to select" > check names > check "full control" and apply all.</p>
