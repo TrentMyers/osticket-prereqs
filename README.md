@@ -91,7 +91,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <li> PHP Manager for IIS: https://www.iis.net/downloads/community/2018/05/php-manager-150-for-iis-10 </li>
 <li> Rewrite Module: https://download.microsoft.com/download/D/8/1/D81E5DD6-1ABB-46B0-9B4B-21894E18B77F/rewrite_x86_en-US.msi </li>
 <li> VC_redist.x86.exe: https://aka.ms/vs/17/release/vc_redist.x86.exe </li>
-<li> PHP (Not to be confused with PHP Manager): https://www.php.net/index.php#2024-04-11-3 </li>
+<li> PHP (Not to be confused with PHP Manager): https://www.php.net/distributions/php-7.3.8.tar.gz </li>
 <i> <b> [ When installing PHP, create a directory (folder) in the root of your drive and name it "PHP". Unpack/Unzip your PHP download into your new "PHP" directory. ] </b></i>
 <li> MySQL: https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-web-community-8.0.36.0.msi </li>
 <i><b> [ Once you finish the installation, it will prompt you with a few options so be sure you select Standard installation > install as a window service > create your root password > Execute. ] </b></i>
@@ -101,7 +101,7 @@ Once the VM is booted up, you will be ready for the next step.</li>
 <li> Open IIS as an admin </li>
 <li> Navigate to PHP Manager</li>
 
-![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/e757ab4b-d6e3-4833-bc6e-abd026f9067d)
+![image](https://github.com/TrentMyers/osticket-prereqs/assets/132710625/be7f97ba-abb7-492e-aa9e-db414f25e519)
 
 <li> Click on "Register new PHP version", browse your drive for the "PHP" folder we created earlier and select php.cgi</li>
 
