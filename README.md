@@ -118,4 +118,6 @@
 
 <p>Once done, right click and go to properties > security > advanced > Disable inheritance > remove all permissions > add > select a principal > type "everyone" inside of "Enter the object name to select" > check names > check "full control" and apply all.</p>
 
-<p>Continue setting up osticket </p>
+<p>From this point, you will open "localhost/osticket" in your browser and continue to setup as desired up until the database section. </p>
+
+<p>Once in the database section, you will want to download <a href="https://www.heidisql.com/installers/HeidiSQL_12.6.0.6765_Setup.exe" target="_blank">Heidi SQL</a></p>
