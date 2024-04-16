@@ -5,6 +5,15 @@
 <h1>osTicket - Prerequisites and Installation</h1>
 <p>This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket through Azure.</p>
 
+<!-- Table of Contents -->
+<h2>Table of Contents</h2>
+<ol>
+  <li><a href="#step1">Step 1: Set Up a Virtual Machine (VM) on Azure</a></li>
+  <li><a href="#step2">Step 2: Preparing for the Setup</a></li>
+  <li><a href="#step3">Step 3: osTicket Setup</a></li>
+</ol>
+
+
 <h2>What is osTicket?</h2>
 <p>osTicket is an open-source customer support ticketing system that enables organizations to effectively manage customer inquiries and support requests. Its primary purpose is to streamline communication between customers and support teams, allowing for efficient ticket creation, assignment, tracking, and resolution.</p>
 
@@ -24,7 +33,7 @@
   <li>Microsoft Azure Account (Visit <a href="https://azure.microsoft.com/en-us/" target="_blank">Microsoft Azure</a>. If you want to install osTicket on your personal/work computer, skip Step 1.)</li>
 </ul>
 
-<h2>Step 1: Set Up a Virtual Machine (VM) on Azure</h2>
+<h2 id="step1">Step 1: Set Up a Virtual Machine (VM) on Azure</h2>
 
 
 <p><strong><em>Create a Virtual Machine in Azure.</em></strong></p>
@@ -41,7 +50,7 @@
 </ul>
 <p><strong>Note:</strong> Once the VM is provisioned, click on it in the Azure portal. You must copy the VM's Public IP address under "Essentials". Use Remote Desktop Connection on Windows to log into your VM. <strong> You must download virtual machine if on linux or mac.</strong></p>
 
-<h2>Step 2: Preparing for the Setup</h2>
+<h2 id="step2">Step 2: Preparing for the Setup</h2>
 
 <p>Navigate to your search bar and search for "control panel" > "Programs" > "Turn windows features on or off".</p>
 
@@ -78,7 +87,7 @@
 <p>Restart IIS to ensure the changes are made.</p>
 
  </ul>
-<h2>Step 3: osTicket Setup</h2>
+<h2 id="step3">Step 3: osTicket Setup</h2>
 <p>Install osTicket from <a href="https://github.com/osTicket/osTicket/releases/download/v1.18.1/osTicket-v1.18.1.zip" target="_blank">here</a>.</p>
 <p>Once installed, open up the folder and proceed with the following steps:</p>
 <ul>
